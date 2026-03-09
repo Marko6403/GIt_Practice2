@@ -1,10 +1,10 @@
-public class ArrayLists {
+public class Array_List {
 
     int initial_value;
     int[]niz;
     int size;
 
-    public ArrayLists(int initial_value)
+    public Array_List(int initial_value)
     {
         this.initial_value = initial_value;
         niz = new int[initial_value];
